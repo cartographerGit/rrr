@@ -1,5 +1,4 @@
 
-<!DOCTYPE HTML>
 <html>
    <head>
    </head>
@@ -15,7 +14,6 @@
 6
 7
 8
-<!DOCTYPE HTML>
 <html>
    <head>
    </head>
